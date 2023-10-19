@@ -25,3 +25,5 @@ You are developing an application that helps users manage and control various el
     </ul>
   </li>
 </ul>
+
+# Class Diagram
