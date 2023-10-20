@@ -27,3 +27,4 @@ You are developing an application that helps users manage and control various el
 </ul>
 
 # Class Diagram
+![Blank diagram (1)](https://github.com/zakidasalla/adapterPattern/assets/142433516/62f5928b-42af-4ba0-8270-f902e5df4d7a)
